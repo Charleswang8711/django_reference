@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.idea/
+media/
+music/migrations/
+bootstrap.min.css
+db.sqlite3
